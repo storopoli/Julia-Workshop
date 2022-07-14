@@ -1,3 +1,9 @@
+# if
+
+# else
+
+# if-elseif-else
+
 # if-elseif-else Exercises
 
 # 1: Test if a number is a multiple of 3, 5 or 7

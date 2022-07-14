@@ -12,12 +12,13 @@ The workshop is 3 hours long with 5-minute breaks every 45 minutes.
 
 1. Using Packages
 2. Variables and Data Structures
-3. Types: concrete and abstract
-4. `if`-`elseif`-`else` statements
-5. `for` loops
-6. `while` loops
-7. Functions
-8. User-defined custom structures: `struct`
+3. Boolean operators and numeric comparisons
+4. Types: concrete and abstract
+5. `if`-`elseif`-`else` statements
+6. `for` loops
+7. `while` loops
+8. Functions
+9. User-defined custom structures: `struct`
 
 ## How to use the content?
 
