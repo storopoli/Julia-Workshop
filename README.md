@@ -6,17 +6,18 @@
 The content is licensed under a very permissive Creative Commons license (CC BY-SA).
 This workshop is geared towards anyone who wants to start using Julia.
 
+The workshop is 3 hours long with 5-minute breaks every 45 minutes.
+
 ## Contents
 
 1. Using Packages
 2. Variables and Data Structures
-3. `if`-`elseif`-`else` statements
-4. `for` loops
-5. `while` loops
-6. Functions
-7. `map`
-8. `reduce`
-9. `mapreduce`
+3. Types: concrete and abstract
+4. `if`-`elseif`-`else` statements
+5. `for` loops
+6. `while` loops
+7. Functions
+8. User-defined custom structures: `struct`
 
 ## How to use the content?
 
@@ -27,7 +28,6 @@ To configure a local environment:
     `git clone https://github.com/storopoli/Julia-Workshop.git`
 3.  Access the directory: `cd Julia-Workshop`
 4.  Open a Julia REPL, a Pluto notebook, or a VSCode session.
-
 
 ## How to cite
 
