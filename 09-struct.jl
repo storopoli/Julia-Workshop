@@ -5,5 +5,3 @@
 # mutable structs
 
 # abstract types
-
-# struct Exercises
