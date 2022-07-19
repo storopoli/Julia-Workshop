@@ -3,6 +3,8 @@
 [![CC BY-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+The workshop can be viewed at: https://youtu.be/uiQpwMQZBTA.
+
 The content is licensed under a very permissive Creative Commons license (CC BY-SA).
 This workshop is geared towards anyone who wants to start using Julia.
 
