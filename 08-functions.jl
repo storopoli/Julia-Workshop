@@ -10,6 +10,8 @@
 
 # anonymous functions
 
+# map/reduce/mapreduce
+
 # functions Exercises
 
 # Make a function `round_number` that rounds a number x as input.
